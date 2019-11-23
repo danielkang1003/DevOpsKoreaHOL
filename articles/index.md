@@ -1,5 +1,7 @@
-# Azure DevOps HOL
 
+# Azure DevOps HOL
+## 오늘은 11월 23일입니다.
+## DevOps Agile + CI + CD + 실습까지 배울 수 있었던 기회였습니다.
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
 
 ## 사전 준비 사항
